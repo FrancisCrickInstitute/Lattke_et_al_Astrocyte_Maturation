@@ -1,0 +1,7 @@
+group,path_bigwig,file_bigwig,frip
+bas_2D,/Users/lattkem/Desktop/Omics analysis/19-05-23_ATAC astr in vitro comp B14d FGF 3D_for paper/sampleLevel/bigwig,bas_2D.SmL.rmD.bigWig,0.120959
+FGF_2D,/Users/lattkem/Desktop/Omics analysis/19-05-23_ATAC astr in vitro comp B14d FGF 3D_for paper/sampleLevel/bigwig,FGF_2D.SmL.rmD.bigWig,0.0975793
+bas_3D,/Users/lattkem/Desktop/Omics analysis/19-05-23_ATAC astr in vitro comp B14d FGF 3D_for paper/sampleLevel/bigwig,bas_3D.SmL.rmD.bigWig,0.347764
+FGF_3D,/Users/lattkem/Desktop/Omics analysis/19-05-23_ATAC astr in vitro comp B14d FGF 3D_for paper/sampleLevel/bigwig,FGF_3D.SmL.rmD.bigWig,0.466009
+Astr_P4,/Users/lattkem/Desktop/Omics analysis/19-05-23_ATAC astr in vitro comp B14d FGF 3D_for paper/sampleLevel/bigwig,Astr_P4.SmL.rmD.bigWig,0.456937
+Astr_2m,/Users/lattkem/Desktop/Omics analysis/19-05-23_ATAC astr in vitro comp B14d FGF 3D_for paper/sampleLevel/bigwig,Astr_2m.SmL.rmD.bigWig,0.257897

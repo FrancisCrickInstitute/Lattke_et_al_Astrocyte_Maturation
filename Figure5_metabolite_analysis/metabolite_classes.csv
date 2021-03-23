@@ -1,0 +1,48 @@
+Metabolite,Pathway_Category
+Glucose,Glycolysis
+Glucose 6-phosphate,Glycolysis
+Fructose 6-phosphate,Glycolysis
+Dihydroxyacetone phosphate,Glycolysis
+2-Phosphoglycerate,Glycolysis
+3-Phosphoglycerate,Glycolysis
+Phosphoenolpyruvate,Glycolysis
+Pyruvate,Glycolysis
+Lactate,Glycolysis
+Citrate,TCA-cycle
+alpha-Ketoglutarate,TCA-cycle
+Succinate,TCA-cycle
+Fumarate,TCA-cycle
+Malate,TCA-cycle
+Ribulose 5-phosphate,pentose-phosphate-pathway
+Ribose 5-phosphate,pentose-phosphate-pathway
+Ribose,pentose-phosphate-pathway
+Deoxyribose,pentose-phosphate-pathway
+alpha-Glycerophoshate,Lipid_metabolism
+beta-Glycerophosphate,lipid_metabolism
+Alanine,Amino_acids_to_pyruvate
+Serine,Amino_acids_to_pyruvate
+Threonine,Amino_acids_to_pyruvate
+Cysteine,Amino_acids_to_pyruvate
+Glycine,Amino_acids_to_pyruvate
+Proline,Amino_acids_to_TCA_cycle
+Glutamate,Amino_acids_to_TCA_cycle
+Methionine,Amino_acids_to_TCA_cycle
+Valine,Amino_acids_to_TCA_cycle
+Aspartate,Amino_acids_to_TCA_cycle
+Asparagine,Amino_acids_to_TCA_cycle
+Glutamine,Amino_acids_to_TCA_cycle
+Tyrosine,Amino_acids_ketogenic
+Phenylalanine,Amino_acids_ketogenic
+Isoleucine,Amino_acids_ketogenic
+Lysine,Amino_acids_ketogenic
+Tryptophan,Amino_acids_ketogenic
+Serotonin,Amino_acid_derivatives
+GABA,Amino_acid_derivatives
+beta-Alanine,Amino_acid_derivatives
+Creatinine,Amino_acid_derivatives
+Sialic acid,other
+myo-Inositol 3-phosphate,other
+Pantothenate,other
+Urea,other
+Thymine,other
+myo-inositol,other

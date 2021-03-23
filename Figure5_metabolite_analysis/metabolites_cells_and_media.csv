@@ -1,0 +1,706 @@
+Metabolite,Exp,Condition,label_percent_cells,conc_cells,label_percent_media,conc_media,conc_media_baseline
+Pyruvate,x6-3,EGFP,66.24,1.85,62.76,20.29,37.8
+Pyruvate,x8-1,EGFP,67.21,3.273,52.34,19.65,37.8
+Pyruvate,x8-2,EGFP,65.26,2.297,51.99,24.41,37.8
+Pyruvate,x9-2,EGFP,65.57,3.057,60.59,20.84,37.8
+Pyruvate,x9-4,EGFP,64.38,7.527,52.84,17.79,37.8
+Pyruvate,x6-3,Rorb,59.26,1.644,47.96,20.79,37.8
+Pyruvate,x8-1,Rorb,49.29,1.61,44.1,16.51,37.8
+Pyruvate,x8-2,Rorb,43.9,1.061,29.07,26.78,37.8
+Pyruvate,x9-2,Rorb,60.68,1.814,43.74,20.48,37.8
+Pyruvate,x9-4,Rorb,51.75,2.527,39.71,20.21,37.8
+Pyruvate,x6-3,Fezf2,46.09,1.059,50.58,18.6,37.8
+Pyruvate,x8-1,Fezf2,38.87,0.4748,56.38,13.54,37.8
+Pyruvate,x8-2,Fezf2,36.98,0.2215,42.65,19.77,37.8
+Pyruvate,x9-2,Fezf2,57.46,2.624,43.28,22.45,37.8
+Pyruvate,x9-4,Fezf2,62.55,6.689,48.14,21.22,37.8
+Lactate,x6-3,EGFP,87.77,0.8449,52.43,4.731,0.07456
+Lactate,x8-1,EGFP,93.64,1.221,43.28,3.013,0.07456
+Lactate,x8-2,EGFP,100,0.7836,40.49,3.198,0.07456
+Lactate,x9-2,EGFP,96.85,1.022,48.81,4.073,0.07456
+Lactate,x9-4,EGFP,88.02,3.323,42.05,3.157,0.07456
+Lactate,x6-3,Rorb,100,0.7002,38.36,3.427,0.07456
+Lactate,x8-1,Rorb,96.51,0.416,34.03,2.525,0.07456
+Lactate,x8-2,Rorb,100,0.3818,17.65,2.305,0.07456
+Lactate,x9-2,Rorb,100,0.6128,32.3,2.645,0.07456
+Lactate,x9-4,Rorb,100,0.728,31.55,2.677,0.07456
+Lactate,x6-3,Fezf2,79.06,0.4414,44.49,3.889,0.07456
+Lactate,x8-1,Fezf2,77.79,0.5338,46.72,3.657,0.07456
+Lactate,x8-2,Fezf2,45.58,0.9433,34.31,2.494,0.07456
+Lactate,x9-2,Fezf2,85.01,0.6601,36,2.667,0.07456
+Lactate,x9-4,Fezf2,72.79,2.795,38.31,3.277,0.07456
+Alanine,x6-3,EGFP,53.87,10.19,19.14,1.828,0.6726
+Alanine,x8-1,EGFP,49.11,11.99,10.59,1.949,0.6726
+Alanine,x8-2,EGFP,49.14,9.031,15.47,1.569,0.6726
+Alanine,x9-2,EGFP,53.27,17.51,17.19,2.126,0.6726
+Alanine,x9-4,EGFP,47.62,42.07,11.48,1.957,0.6726
+Alanine,x6-3,Rorb,35.91,12.74,5.87,1.504,0.6726
+Alanine,x8-1,Rorb,36.02,11.01,5.65,1.645,0.6726
+Alanine,x8-2,Rorb,23.18,11.94,2.91,1.726,0.6726
+Alanine,x9-2,Rorb,40.93,16.05,8.18,2.213,0.6726
+Alanine,x9-4,Rorb,38.01,29.91,6.84,2.295,0.6726
+Alanine,x6-3,Fezf2,31.65,4.719,3.61,1.363,0.6726
+Alanine,x8-1,Fezf2,40.18,5.94,5.37,1.23,0.6726
+Alanine,x8-2,Fezf2,22.79,2.864,2.03,1.207,0.6726
+Alanine,x9-2,Fezf2,27.29,5.66,3.16,1.695,0.6726
+Alanine,x9-4,Fezf2,31.99,18.95,4.69,1.731,0.6726
+Valine,x6-3,EGFP,,3.762,,6.546,7.432
+Valine,x8-1,EGFP,,6.168,,7.037,7.432
+Valine,x8-2,EGFP,,3.821,,5.799,7.432
+Valine,x9-2,EGFP,,6.894,,8.393,7.432
+Valine,x9-4,EGFP,,18.01,,5.673,7.432
+Valine,x6-3,Rorb,,4.804,,6.713,7.432
+Valine,x8-1,Rorb,,5.319,,7.627,7.432
+Valine,x8-2,Rorb,,3.268,,8.46,7.432
+Valine,x9-2,Rorb,,4.495,,7.024,7.432
+Valine,x9-4,Rorb,,9.012,,6.855,7.432
+Valine,x6-3,Fezf2,,4.429,,6.215,7.432
+Valine,x8-1,Fezf2,,6.226,,7.553,7.432
+Valine,x8-2,Fezf2,,4.963,,7.796,7.432
+Valine,x9-2,Fezf2,,4.709,,6.864,7.432
+Valine,x9-4,Fezf2,,14.46,,5.545,7.432
+Isoleucine,x6-3,EGFP,,1.531,,1.813,1.313
+Isoleucine,x8-1,EGFP,,3.325,,2.365,1.313
+Isoleucine,x8-2,EGFP,,1.436,,2.17,1.313
+Isoleucine,x9-2,EGFP,,3.321,,4.018,1.313
+Isoleucine,x9-4,EGFP,,9.194,,1.351,1.313
+Isoleucine,x6-3,Rorb,,0.8679,,1.252,1.313
+Isoleucine,x8-1,Rorb,,2.594,,1.992,1.313
+Isoleucine,x8-2,Rorb,,1.083,,3.332,1.313
+Isoleucine,x9-2,Rorb,,2.188,,1.792,1.313
+Isoleucine,x9-4,Rorb,,4.334,,2.014,1.313
+Isoleucine,x6-3,Fezf2,,0.9348,,1.575,1.313
+Isoleucine,x8-1,Fezf2,,3.173,,1.806,1.313
+Isoleucine,x8-2,Fezf2,,2.408,,2.012,1.313
+Isoleucine,x9-2,Fezf2,,1.718,,1.989,1.313
+Isoleucine,x9-4,Fezf2,,6.154,,1.397,1.313
+Proline,x6-3,EGFP,,1.86,,0.3933,0.285
+Proline,x8-1,EGFP,,5.537,,0.449,0.285
+Proline,x8-2,EGFP,,1.285,,0.4539,0.285
+Proline,x9-2,EGFP,,6.154,,0.7171,0.285
+Proline,x9-4,EGFP,,17,,0.3602,0.285
+Proline,x6-3,Rorb,,0.6897,,0.3442,0.285
+Proline,x8-1,Rorb,,2.179,,0.4198,0.285
+Proline,x8-2,Rorb,,0.4893,,0.4269,0.285
+Proline,x9-2,Rorb,,1.337,,0.4118,0.285
+Proline,x9-4,Rorb,,3.369,,0.4092,0.285
+Proline,x6-3,Fezf2,,0.786,,0.3412,0.285
+Proline,x8-1,Fezf2,,3.975,,0.3963,0.285
+Proline,x8-2,Fezf2,,2.399,,0.4192,0.285
+Proline,x9-2,Fezf2,,1.524,,0.4077,0.285
+Proline,x9-4,Fezf2,,7.883,,0.3241,0.285
+Glycine,x6-3,EGFP,0.53,8.006,,3.179,3.53
+Glycine,x8-1,EGFP,1.29,8.695,,3.607,3.53
+Glycine,x8-2,EGFP,1.62,4.762,,3.477,3.53
+Glycine,x9-2,EGFP,1.66,9.593,,3.52,3.53
+Glycine,x9-4,EGFP,1.6,24.06,,3.368,3.53
+Glycine,x6-3,Rorb,1,8.958,,3.2,3.53
+Glycine,x8-1,Rorb,2.4,5.799,,3.341,3.53
+Glycine,x8-2,Rorb,2.07,3.378,,3.589,3.53
+Glycine,x9-2,Rorb,2.97,5.72,,3.287,3.53
+Glycine,x9-4,Rorb,2.69,11.97,,3.409,3.53
+Glycine,x6-3,Fezf2,0.33,8.839,,3.379,3.53
+Glycine,x8-1,Fezf2,0.63,8.15,,3.459,3.53
+Glycine,x8-2,Fezf2,0.38,6.744,,3.606,3.53
+Glycine,x9-2,Fezf2,2.06,9.648,,3.724,3.53
+Glycine,x9-4,Fezf2,1.88,21.57,,3.6,3.53
+Succinate,x6-3,EGFP,12.87,0.04335,2.63,0.009438,0.00495
+Succinate,x8-1,EGFP,26.46,0.06724,1.54,0.01448,0.00495
+Succinate,x8-2,EGFP,24.16,0.05443,6.92,0.009031,0.00495
+Succinate,x9-2,EGFP,5.07,0.119,5.56,0.0107,0.00495
+Succinate,x9-4,EGFP,11.83,0.3682,3.55,0.01045,0.00495
+Succinate,x6-3,Rorb,10.49,0.0791,2.53,0.003803,0.00495
+Succinate,x8-1,Rorb,19.53,0.04997,1.5,0.008539,0.00495
+Succinate,x8-2,Rorb,5.63,0.07081,1.98,0.004951,0.00495
+Succinate,x9-2,Rorb,13.79,0.03048,2.23,0.005424,0.00495
+Succinate,x9-4,Rorb,3.59,0.2954,2.68,0.009455,0.00495
+Succinate,x6-3,Fezf2,33.83,0.1127,8,0.004488,0.00495
+Succinate,x8-1,Fezf2,42.29,0.08571,9.36,0.007224,0.00495
+Succinate,x8-2,Fezf2,47.74,0.1463,2.38,0.01112,0.00495
+Succinate,x9-2,Fezf2,7.83,0.1344,3.5,0.008669,0.00495
+Succinate,x9-4,Fezf2,28.4,0.1405,3.25,0.003444,0.00495
+Fumarate,x6-3,EGFP,54.08,1.925,17,0.02422,0.002598
+Fumarate,x8-1,EGFP,49.58,1.451,7.31,0.02098,0.002598
+Fumarate,x8-2,EGFP,45.7,1.958,11.53,0.02246,0.002598
+Fumarate,x9-2,EGFP,52.84,1.77,11.02,0.02328,0.002598
+Fumarate,x9-4,EGFP,48.05,4.363,9.72,0.01856,0.002598
+Fumarate,x6-3,Rorb,41.79,1.312,11.6,0.01193,0.002598
+Fumarate,x8-1,Rorb,37.8,0.9295,5.91,0.01523,0.002598
+Fumarate,x8-2,Rorb,16.45,1.219,3.47,0.01199,0.002598
+Fumarate,x9-2,Rorb,38.53,1.046,6.3,0.01457,0.002598
+Fumarate,x9-4,Rorb,34.79,1.922,5.64,0.01679,0.002598
+Fumarate,x6-3,Fezf2,51.38,1.819,21.49,0.01503,0.002598
+Fumarate,x8-1,Fezf2,56.28,1.289,14.81,0.01468,0.002598
+Fumarate,x8-2,Fezf2,50.95,1.85,16.45,0.00949,0.002598
+Fumarate,x9-2,Fezf2,46.03,1.7,7.84,0.01239,0.002598
+Fumarate,x9-4,Fezf2,49.53,3.694,12.86,0.01092,0.002598
+Serine,x6-3,EGFP,12.73,16.31,,3.259,3.653
+Serine,x8-1,EGFP,19.84,18.39,,3.793,3.653
+Serine,x8-2,EGFP,7.05,12.69,,3.746,3.653
+Serine,x9-2,EGFP,16.48,22.03,,3.892,3.653
+Serine,x9-4,EGFP,17.21,56.23,,3.566,3.653
+Serine,x6-3,Rorb,6.45,26.67,,3.353,3.653
+Serine,x8-1,Rorb,15.59,16.86,,3.588,3.653
+Serine,x8-2,Rorb,6.05,13.35,,3.921,3.653
+Serine,x9-2,Rorb,13.49,17.15,,3.407,3.653
+Serine,x9-4,Rorb,13.32,34.87,,3.453,3.653
+Serine,x6-3,Fezf2,5.49,10.07,,3.272,3.653
+Serine,x8-1,Fezf2,12.37,14.08,,3.753,3.653
+Serine,x8-2,Fezf2,5.31,7.069,,3.589,3.653
+Serine,x9-2,Fezf2,7.81,10.55,,3.595,3.653
+Serine,x9-4,Fezf2,8.1,28.87,,3.555,3.653
+Threonine,x6-3,EGFP,,14.53,,4.696,5.267
+Threonine,x8-1,EGFP,,14.83,,5.243,5.267
+Threonine,x8-2,EGFP,,11.86,,5.232,5.267
+Threonine,x9-2,EGFP,,18.3,,5.349,5.267
+Threonine,x9-4,EGFP,,42.27,,4.987,5.267
+Threonine,x6-3,Rorb,,20.64,,4.809,5.267
+Threonine,x8-1,Rorb,,12.4,,5.071,5.267
+Threonine,x8-2,Rorb,,10.19,,5.421,5.267
+Threonine,x9-2,Rorb,,12.75,,4.865,5.267
+Threonine,x9-4,Rorb,,24.28,,4.887,5.267
+Threonine,x6-3,Fezf2,,11.37,,4.597,5.267
+Threonine,x8-1,Fezf2,,12.2,,5.213,5.267
+Threonine,x8-2,Fezf2,,8.324,,5.027,5.267
+Threonine,x9-2,Fezf2,,11.35,,4.982,5.267
+Threonine,x9-4,Fezf2,,30.95,,5.15,5.267
+beta-Alanine,x6-3,EGFP,4.53,0.05938,,,
+beta-Alanine,x8-1,EGFP,4,0.09045,,,
+beta-Alanine,x8-2,EGFP,4.7,0.03639,,,
+beta-Alanine,x9-2,EGFP,6.02,0.0993,,,
+beta-Alanine,x9-4,EGFP,4.23,0.26,,,
+beta-Alanine,x6-3,Rorb,1.16,0.06251,,,
+beta-Alanine,x8-1,Rorb,2.2,0.06082,,,
+beta-Alanine,x8-2,Rorb,5.36,0.04237,,,
+beta-Alanine,x9-2,Rorb,5.13,0.08612,,,
+beta-Alanine,x9-4,Rorb,2.88,0.2083,,,
+beta-Alanine,x6-3,Fezf2,2.29,0.05089,,,
+beta-Alanine,x8-1,Fezf2,0,0.08667,,,
+beta-Alanine,x8-2,Fezf2,0,0.1488,,,
+beta-Alanine,x9-2,Fezf2,0.76,0.07586,,,
+beta-Alanine,x9-4,Fezf2,3.72,0.1687,,,
+Malate,x6-3,EGFP,60.73,5.619,18.87,0.06087,0
+Malate,x8-1,EGFP,58.59,3.958,12.63,0.04884,0
+Malate,x8-2,EGFP,50.36,6.016,14.9,0.05307,0
+Malate,x9-2,EGFP,61.66,5.044,17.37,0.05888,0
+Malate,x9-4,EGFP,57.18,12.33,12.6,0.04432,0
+Malate,x6-3,Rorb,50.16,4.602,14.8,0.02603,0
+Malate,x8-1,Rorb,48.67,2.739,9.58,0.02932,0
+Malate,x8-2,Rorb,17.76,4.18,6.56,0.03091,0
+Malate,x9-2,Rorb,49.91,2.753,8.06,0.03342,0
+Malate,x9-4,Rorb,45.19,6.632,8.89,0.03616,0
+Malate,x6-3,Fezf2,56.12,5.585,26.22,0.02601,0
+Malate,x8-1,Fezf2,59.99,3.841,25.16,0.03364,0
+Malate,x8-2,Fezf2,51.72,5.316,24.84,0.02218,0
+Malate,x9-2,Fezf2,50,4.716,12.8,0.02886,0
+Malate,x9-4,Fezf2,54.36,12.05,19.96,0.02583,0
+Aspartate,x6-3,EGFP,55.77,9.21,,,
+Aspartate,x8-1,EGFP,54.7,10.71,,,
+Aspartate,x8-2,EGFP,39.25,11.51,,,
+Aspartate,x9-2,EGFP,56.79,15.14,,,
+Aspartate,x9-4,EGFP,51.47,37.76,,,
+Aspartate,x6-3,Rorb,43.53,6.285,,,
+Aspartate,x8-1,Rorb,44.88,7.228,,,
+Aspartate,x8-2,Rorb,12.77,20.01,,,
+Aspartate,x9-2,Rorb,46.5,9.374,,,
+Aspartate,x9-4,Rorb,39.77,23.46,,,
+Aspartate,x6-3,Fezf2,51.97,5.359,,,
+Aspartate,x8-1,Fezf2,57.65,5.231,,,
+Aspartate,x8-2,Fezf2,48.58,3.021,,,
+Aspartate,x9-2,Fezf2,43.62,7.799,,,
+Aspartate,x9-4,Fezf2,45.99,26.89,,,
+Methionine,x6-3,EGFP,30.33,2.541,,1.347,1.659
+Methionine,x8-1,EGFP,29.26,3.007,,1.626,1.659
+Methionine,x8-2,EGFP,29.64,2.441,,1.616,1.659
+Methionine,x9-2,EGFP,31.56,4.088,,1.672,1.659
+Methionine,x9-4,EGFP,28.3,9.827,,1.491,1.659
+Methionine,x6-3,Rorb,20.07,2.281,,1.386,1.659
+Methionine,x8-1,Rorb,22.8,2.116,,1.545,1.659
+Methionine,x8-2,Rorb,22.03,2.355,,1.664,1.659
+Methionine,x9-2,Rorb,28.54,2.284,,1.4,1.659
+Methionine,x9-4,Rorb,26.93,5.026,,1.457,1.659
+Methionine,x6-3,Fezf2,23.01,1.759,,1.38,1.659
+Methionine,x8-1,Fezf2,45.64,1.021,,1.583,1.659
+Methionine,x8-2,Fezf2,39.05,0.586,,1.519,1.659
+Methionine,x9-2,Fezf2,22.42,2.156,,1.63,1.659
+Methionine,x9-4,Fezf2,26.3,6.702,,1.522,1.659
+GABA,x6-3,EGFP,16.95,0.009555,,,
+GABA,x8-1,EGFP,13.86,0.008431,,,
+GABA,x8-2,EGFP,5.98,0.007772,,,
+GABA,x9-2,EGFP,11.4,0.01041,,,
+GABA,x9-4,EGFP,28.34,0.05656,,,
+GABA,x6-3,Rorb,8.28,0.009108,,,
+GABA,x8-1,Rorb,1.06,0.005444,,,
+GABA,x8-2,Rorb,1.39,0.01426,,,
+GABA,x9-2,Rorb,0.8,0.008,,,
+GABA,x9-4,Rorb,18.95,0.03529,,,
+GABA,x6-3,Fezf2,57.98,0.2557,,,
+GABA,x8-1,Fezf2,57.69,0.06924,,,
+GABA,x8-2,Fezf2,40.14,0.02926,,,
+GABA,x9-2,Fezf2,39.23,0.05704,,,
+GABA,x9-4,Fezf2,52.37,0.3993,,,
+Cysteine,x6-3,EGFP,,19.46,,,
+Cysteine,x8-1,EGFP,,29.17,,,
+Cysteine,x8-2,EGFP,,16.65,,,
+Cysteine,x9-2,EGFP,,38.17,,,
+Cysteine,x9-4,EGFP,,104.13,,,
+Cysteine,x6-3,Rorb,,25.59,,,
+Cysteine,x8-1,Rorb,,25.06,,,
+Cysteine,x8-2,Rorb,,10.84,,,
+Cysteine,x9-2,Rorb,,25.99,,,
+Cysteine,x9-4,Rorb,,66.96,,,
+Cysteine,x6-3,Fezf2,,15.19,,,
+Cysteine,x8-1,Fezf2,,10.62,,,
+Cysteine,x8-2,Fezf2,,3.92,,,
+Cysteine,x9-2,Fezf2,,34.89,,,
+Cysteine,x9-4,Fezf2,,97.68,,,
+Creatinine,x6-3,EGFP,,6.724,,,
+Creatinine,x8-1,EGFP,,3.219,,,
+Creatinine,x8-2,EGFP,,3.891,,,
+Creatinine,x9-2,EGFP,,6.598,,,
+Creatinine,x9-4,EGFP,,15.4,,,
+Creatinine,x6-3,Rorb,,13.05,,,
+Creatinine,x8-1,Rorb,,5.893,,,
+Creatinine,x8-2,Rorb,,4.262,,,
+Creatinine,x9-2,Rorb,,11.69,,,
+Creatinine,x9-4,Rorb,,19.14,,,
+Creatinine,x6-3,Fezf2,,6.241,,,
+Creatinine,x8-1,Fezf2,,6.38,,,
+Creatinine,x8-2,Fezf2,,7.962,,,
+Creatinine,x9-2,Fezf2,,4.694,,,
+Creatinine,x9-4,Fezf2,,14.5,,,
+Deoxyribose,x6-3,EGFP,43.97,0.08817,,,
+Deoxyribose,x8-1,EGFP,42.36,0.08204,,,
+Deoxyribose,x8-2,EGFP,43.41,0.102,,,
+Deoxyribose,x9-2,EGFP,42.52,0.08991,,,
+Deoxyribose,x9-4,EGFP,34.91,0.2165,,,
+Deoxyribose,x6-3,Rorb,38.2,0.05673,,,
+Deoxyribose,x8-1,Rorb,27.62,0.04185,,,
+Deoxyribose,x8-2,Rorb,14.35,0.005507,,,
+Deoxyribose,x9-2,Rorb,32.79,0.02201,,,
+Deoxyribose,x9-4,Rorb,30.41,0.03756,,,
+Deoxyribose,x6-3,Fezf2,36.35,0.127,,,
+Deoxyribose,x8-1,Fezf2,41.31,0.1247,,,
+Deoxyribose,x8-2,Fezf2,29.83,0.2297,,,
+Deoxyribose,x9-2,Fezf2,28.61,0.1114,,,
+Deoxyribose,x9-4,Fezf2,32.23,0.2609,,,
+alpha-Ketoglutarate ,x6-3,EGFP,65.98,1.112,,,
+alpha-Ketoglutarate ,x8-1,EGFP,69.03,1.034,,,
+alpha-Ketoglutarate ,x8-2,EGFP,62.39,1.388,,,
+alpha-Ketoglutarate ,x9-2,EGFP,71.97,1.059,,,
+alpha-Ketoglutarate ,x9-4,EGFP,69.62,2.82,,,
+alpha-Ketoglutarate ,x6-3,Rorb,53.78,0.907,,,
+alpha-Ketoglutarate ,x8-1,Rorb,57.21,0.6897,,,
+alpha-Ketoglutarate ,x8-2,Rorb,23.42,0.2094,,,
+alpha-Ketoglutarate ,x9-2,Rorb,56,0.3976,,,
+alpha-Ketoglutarate ,x9-4,Rorb,54.13,0.7593,,,
+alpha-Ketoglutarate ,x6-3,Fezf2,62.69,1.799,,,
+alpha-Ketoglutarate ,x8-1,Fezf2,68.93,1.518,,,
+alpha-Ketoglutarate ,x8-2,Fezf2,57.54,3.839,,,
+alpha-Ketoglutarate ,x9-2,Fezf2,55.64,1.941,,,
+alpha-Ketoglutarate ,x9-4,Fezf2,62.9,4.011,,,
+Phosphoenolpyruvate,x6-3,EGFP,100,0.3563,,,
+Phosphoenolpyruvate,x8-1,EGFP,100,0.467,,,
+Phosphoenolpyruvate,x8-2,EGFP,98.43,0.2475,,,
+Phosphoenolpyruvate,x9-2,EGFP,99.92,0.454,,,
+Phosphoenolpyruvate,x9-4,EGFP,100,1.129,,,
+Phosphoenolpyruvate,x6-3,Rorb,100,0.2105,,,
+Phosphoenolpyruvate,x8-1,Rorb,90.63,0.1625,,,
+Phosphoenolpyruvate,x8-2,Rorb,100,0.06368,,,
+Phosphoenolpyruvate,x9-2,Rorb,100,0.05189,,,
+Phosphoenolpyruvate,x9-4,Rorb,99.51,0.1516,,,
+Phosphoenolpyruvate,x6-3,Fezf2,79.17,0.3496,,,
+Phosphoenolpyruvate,x8-1,Fezf2,90.96,0.2965,,,
+Phosphoenolpyruvate,x8-2,Fezf2,85.71,0.1242,,,
+Phosphoenolpyruvate,x9-2,Fezf2,84.28,0.5226,,,
+Phosphoenolpyruvate,x9-4,Fezf2,91.17,1.16,,,
+Glutamate,x6-3,EGFP,68.37,263.2,,,
+Glutamate,x8-1,EGFP,69.68,369.9,,,
+Glutamate,x8-2,EGFP,57.79,287.1,,,
+Glutamate,x9-2,EGFP,71.3,462.1,,,
+Glutamate,x9-4,EGFP,66.96,1120,,,
+Glutamate,x6-3,Rorb,58.57,229.2,,,
+Glutamate,x8-1,Rorb,56.55,262.2,,,
+Glutamate,x8-2,Rorb,25.35,270.8,,,
+Glutamate,x9-2,Rorb,57.49,264.3,,,
+Glutamate,x9-4,Rorb,55.76,601.9,,,
+Glutamate,x6-3,Fezf2,63.97,145.5,,,
+Glutamate,x8-1,Fezf2,66.54,209,,,
+Glutamate,x8-2,Fezf2,58.58,116.9,,,
+Glutamate,x9-2,Fezf2,57.12,177.4,,,
+Glutamate,x9-4,Fezf2,61.5,594.5,,,
+Phenylalanine,x6-3,EGFP,3.65,1.697,,2.907,3.416
+Phenylalanine,x8-1,EGFP,2.57,2.212,,3.448,3.416
+Phenylalanine,x8-2,EGFP,4.1,1.446,,3.536,3.416
+Phenylalanine,x9-2,EGFP,2.87,2.499,,3.696,3.416
+Phenylalanine,x9-4,EGFP,2.42,6.522,,3.284,3.416
+Phenylalanine,x6-3,Rorb,5.26,2.368,,3.061,3.416
+Phenylalanine,x8-1,Rorb,3.11,1.993,,3.425,3.416
+Phenylalanine,x8-2,Rorb,5.17,1.295,,3.664,3.416
+Phenylalanine,x9-2,Rorb,4.41,1.858,,3.059,3.416
+Phenylalanine,x9-4,Rorb,3.68,3.674,,3.155,3.416
+Phenylalanine,x6-3,Fezf2,6.99,1.912,,2.938,3.416
+Phenylalanine,x8-1,Fezf2,2.11,2.427,,3.486,3.416
+Phenylalanine,x8-2,Fezf2,8.41,1.969,,3.221,3.416
+Phenylalanine,x9-2,Fezf2,3.96,1.91,,3.419,3.416
+Phenylalanine,x9-4,Fezf2,2.96,4.816,,3.289,3.416
+Asparagine,x6-3,EGFP,0,0.5469,,0.1758,0.2675
+Asparagine,x8-1,EGFP,0.49,0.2573,,0.2325,0.2675
+Asparagine,x8-2,EGFP,0.1,0.2021,,0.2538,0.2675
+Asparagine,x9-2,EGFP,0.56,0.423,,0.228,0.2675
+Asparagine,x9-4,EGFP,0.56,1.678,,0.2033,0.2675
+Asparagine,x6-3,Rorb,0.78,0.4204,,0.1905,0.2675
+Asparagine,x8-1,Rorb,1.28,0.2598,,0.2309,0.2675
+Asparagine,x8-2,Rorb,1.74,0.4017,,0.2438,0.2675
+Asparagine,x9-2,Rorb,5.47,0.3981,,0.221,0.2675
+Asparagine,x9-4,Rorb,3.28,0.9882,,0.2337,0.2675
+Asparagine,x6-3,Fezf2,2.02,0.3922,,0.185,0.2675
+Asparagine,x8-1,Fezf2,2.48,0.4231,,0.2224,0.2675
+Asparagine,x8-2,Fezf2,3.41,0.4195,,0.2399,0.2675
+Asparagine,x9-2,Fezf2,3.43,0.3611,,0.2857,0.2675
+Asparagine,x9-4,Fezf2,3.46,1.567,,0.2374,0.2675
+Ribose,x6-3,EGFP,8.61,0.04248,,,
+Ribose,x8-1,EGFP,14.91,0.03224,,,
+Ribose,x8-2,EGFP,12.19,0.04628,,,
+Ribose,x9-2,EGFP,13.94,0.04896,,,
+Ribose,x9-4,EGFP,13.25,0.1964,,,
+Ribose,x6-3,Rorb,19.77,0.07642,,,
+Ribose,x8-1,Rorb,17.03,0.04445,,,
+Ribose,x8-2,Rorb,20.64,0.06912,,,
+Ribose,x9-2,Rorb,32.7,0.1133,,,
+Ribose,x9-4,Rorb,27.18,0.254,,,
+Ribose,x6-3,Fezf2,14.56,0.04241,,,
+Ribose,x8-1,Fezf2,37.76,0.06666,,,
+Ribose,x8-2,Fezf2,19.96,0.08167,,,
+Ribose,x9-2,Fezf2,18.41,0.03357,,,
+Ribose,x9-4,Fezf2,16.87,0.1418,,,
+beta-Glycerophosphate,x6-3,EGFP,,0.557,,,
+beta-Glycerophosphate,x8-1,EGFP,,0.6615,,,
+beta-Glycerophosphate,x8-2,EGFP,,0.3509,,,
+beta-Glycerophosphate,x9-2,EGFP,,0.6822,,,
+beta-Glycerophosphate,x9-4,EGFP,,1.861,,,
+beta-Glycerophosphate,x6-3,Rorb,,0.4669,,,
+beta-Glycerophosphate,x8-1,Rorb,,0.6055,,,
+beta-Glycerophosphate,x8-2,Rorb,,0.2212,,,
+beta-Glycerophosphate,x9-2,Rorb,,0.3458,,,
+beta-Glycerophosphate,x9-4,Rorb,,0.6706,,,
+beta-Glycerophosphate,x6-3,Fezf2,,0.2344,,,
+beta-Glycerophosphate,x8-1,Fezf2,,1.956,,,
+beta-Glycerophosphate,x8-2,Fezf2,,2.179,,,
+beta-Glycerophosphate,x9-2,Fezf2,,0.4384,,,
+beta-Glycerophosphate,x9-4,Fezf2,,1.082,,,
+Dihydroxyacetone phosphate,x6-3,EGFP,98.14,1.449,,,
+Dihydroxyacetone phosphate,x8-1,EGFP,100,10.68,,,
+Dihydroxyacetone phosphate,x8-2,EGFP,100,2.748,,,
+Dihydroxyacetone phosphate,x9-2,EGFP,100,5.543,,,
+Dihydroxyacetone phosphate,x9-4,EGFP,100,20.71,,,
+Dihydroxyacetone phosphate,x6-3,Rorb,100,1.16,,,
+Dihydroxyacetone phosphate,x8-1,Rorb,92.59,2.068,,,
+Dihydroxyacetone phosphate,x8-2,Rorb,100,1.027,,,
+Dihydroxyacetone phosphate,x9-2,Rorb,91.27,0.2432,,,
+Dihydroxyacetone phosphate,x9-4,Rorb,92.82,1.075,,,
+Dihydroxyacetone phosphate,x6-3,Fezf2,88.56,0.5786,,,
+Dihydroxyacetone phosphate,x8-1,Fezf2,96.08,5.98,,,
+Dihydroxyacetone phosphate,x8-2,Fezf2,100,2.035,,,
+Dihydroxyacetone phosphate,x9-2,Fezf2,90.3,0.9586,,,
+Dihydroxyacetone phosphate,x9-4,Fezf2,96.68,2.397,,,
+alpha-Glycerophoshate,x6-3,EGFP,20.05,62.32,,,
+alpha-Glycerophoshate,x8-1,EGFP,18.05,64.04,,,
+alpha-Glycerophoshate,x8-2,EGFP,14.74,60.79,,,
+alpha-Glycerophoshate,x9-2,EGFP,21.39,73.62,,,
+alpha-Glycerophoshate,x9-4,EGFP,22.18,181.5,,,
+alpha-Glycerophoshate,x6-3,Rorb,13.18,93.19,,,
+alpha-Glycerophoshate,x8-1,Rorb,9.03,59.61,,,
+alpha-Glycerophoshate,x8-2,Rorb,2.6,53,,,
+alpha-Glycerophoshate,x9-2,Rorb,6.28,58.02,,,
+alpha-Glycerophoshate,x9-4,Rorb,10.37,116.7,,,
+alpha-Glycerophoshate,x6-3,Fezf2,21.37,43.86,,,
+alpha-Glycerophoshate,x8-1,Fezf2,24.25,44.48,,,
+alpha-Glycerophoshate,x8-2,Fezf2,10.9,44.23,,,
+alpha-Glycerophoshate,x9-2,Fezf2,15.03,64.75,,,
+alpha-Glycerophoshate,x9-4,Fezf2,16.21,161.7,,,
+2-Phosphoglycerate,x6-3,EGFP,100,0.07124,,,
+2-Phosphoglycerate,x8-1,EGFP,100,0.1454,,,
+2-Phosphoglycerate,x8-2,EGFP,100,0.08389,,,
+2-Phosphoglycerate,x9-2,EGFP,100,0.1042,,,
+2-Phosphoglycerate,x9-4,EGFP,100,0.276,,,
+2-Phosphoglycerate,x6-3,Rorb,96.18,0.05841,,,
+2-Phosphoglycerate,x8-1,Rorb,90.74,0.06553,,,
+2-Phosphoglycerate,x8-2,Rorb,98.02,0.03742,,,
+2-Phosphoglycerate,x9-2,Rorb,95.53,0.0448,,,
+2-Phosphoglycerate,x9-4,Rorb,94.29,0.1077,,,
+2-Phosphoglycerate,x6-3,Fezf2,80.47,0.03668,,,
+2-Phosphoglycerate,x8-1,Fezf2,90.77,0.08702,,,
+2-Phosphoglycerate,x8-2,Fezf2,88.29,0.03403,,,
+2-Phosphoglycerate,x9-2,Fezf2,86.58,0.04172,,,
+2-Phosphoglycerate,x9-4,Fezf2,91.6,0.09809,,,
+3-Phosphoglycerate ,x6-3,EGFP,100,0.3705,,,
+3-Phosphoglycerate ,x8-1,EGFP,100,0.8588,,,
+3-Phosphoglycerate ,x8-2,EGFP,100,0.4722,,,
+3-Phosphoglycerate ,x9-2,EGFP,100,0.6321,,,
+3-Phosphoglycerate ,x9-4,EGFP,100,1.632,,,
+3-Phosphoglycerate ,x6-3,Rorb,100,0.2143,,,
+3-Phosphoglycerate ,x8-1,Rorb,94.2,0.2304,,,
+3-Phosphoglycerate ,x8-2,Rorb,100,0.1217,,,
+3-Phosphoglycerate ,x9-2,Rorb,99.61,0.08404,,,
+3-Phosphoglycerate ,x9-4,Rorb,96.58,0.2593,,,
+3-Phosphoglycerate ,x6-3,Fezf2,85.42,0.1243,,,
+3-Phosphoglycerate ,x8-1,Fezf2,96.7,0.4799,,,
+3-Phosphoglycerate ,x8-2,Fezf2,91.07,0.15,,,
+3-Phosphoglycerate ,x9-2,Fezf2,90.38,0.1315,,,
+3-Phosphoglycerate ,x9-4,Fezf2,96.46,0.539,,,
+Citrate,x6-3,EGFP,73.88,2.969,34.51,0.5552,0.02322
+Citrate,x8-1,EGFP,72.79,2.575,32.1,0.6046,0.02322
+Citrate,x8-2,EGFP,69.13,3.008,32.36,0.4101,0.02322
+Citrate,x9-2,EGFP,75.46,3.092,36.61,0.5918,0.02322
+Citrate,x9-4,EGFP,70.37,8.797,24.72,0.595,0.02322
+Citrate,x6-3,Rorb,64.79,5.452,29.33,0.3568,0.02322
+Citrate,x8-1,Rorb,63.46,2.773,26.73,0.4151,0.02322
+Citrate,x8-2,Rorb,43.74,3.233,20.76,0.1471,0.02322
+Citrate,x9-2,Rorb,65.04,2.627,26.7,0.2073,0.02322
+Citrate,x9-4,Rorb,61.64,6.56,23.05,0.3334,0.02322
+Citrate,x6-3,Fezf2,68.19,3.121,29.12,0.272,0.02322
+Citrate,x8-1,Fezf2,72.23,3.273,37.78,0.4646,0.02322
+Citrate,x8-2,Fezf2,63.66,3.208,25.79,0.1759,0.02322
+Citrate,x9-2,Fezf2,62.15,2.752,23.55,0.2051,0.02322
+Citrate,x9-4,Fezf2,67.93,7.766,24.68,0.2241,0.02322
+Lysine,x6-3,EGFP,,8.936,,,
+Lysine,x8-1,EGFP,,8.441,,,
+Lysine,x8-2,EGFP,,12.28,,,
+Lysine,x9-2,EGFP,,7.699,,,
+Lysine,x9-4,EGFP,,17.69,,,
+Lysine,x6-3,Rorb,,35.96,,,
+Lysine,x8-1,Rorb,,11.03,,,
+Lysine,x8-2,Rorb,,11.94,,,
+Lysine,x9-2,Rorb,,12.35,,,
+Lysine,x9-4,Rorb,,20.11,,,
+Lysine,x6-3,Fezf2,,17.47,,,
+Lysine,x8-1,Fezf2,,12.26,,,
+Lysine,x8-2,Fezf2,,19.01,,,
+Lysine,x9-2,Fezf2,,22.21,,,
+Lysine,x9-4,Fezf2,,38.43,,,
+Glucose,x6-3,EGFP,80.11,0.4529,,,
+Glucose,x8-1,EGFP,100,0.5273,,,
+Glucose,x8-2,EGFP,100,0.962,,,
+Glucose,x9-2,EGFP,74.27,0.4251,,,
+Glucose,x9-4,EGFP,76.06,2.591,,,
+Glucose,x6-3,Rorb,100,0.7323,,,
+Glucose,x8-1,Rorb,76.36,0.5404,,,
+Glucose,x8-2,Rorb,89.76,3.497,,,
+Glucose,x9-2,Rorb,89.61,0.6679,,,
+Glucose,x9-4,Rorb,80.33,1.008,,,
+Glucose,x6-3,Fezf2,61.29,0.6474,,,
+Glucose,x8-1,Fezf2,61.43,4.064,,,
+Glucose,x8-2,Fezf2,87.72,4.108,,,
+Glucose,x9-2,Fezf2,57.51,0.2705,,,
+Glucose,x9-4,Fezf2,68.28,1.66,,,
+Tyrosine,x6-3,EGFP,,3.477,,6.314,6.94
+Tyrosine,x8-1,EGFP,,4.459,,7.369,6.94
+Tyrosine,x8-2,EGFP,,2.721,,7.168,6.94
+Tyrosine,x9-2,EGFP,,4.931,,7.314,6.94
+Tyrosine,x9-4,EGFP,,14.49,,6.713,6.94
+Tyrosine,x6-3,Rorb,,0.4154,,6.301,6.94
+Tyrosine,x8-1,Rorb,,4.009,,6.834,6.94
+Tyrosine,x8-2,Rorb,,2.043,,7.299,6.94
+Tyrosine,x9-2,Rorb,,2.476,,6.501,6.94
+Tyrosine,x9-4,Rorb,,5.923,,6.717,6.94
+Tyrosine,x6-3,Fezf2,,1.175,,6.462,6.94
+Tyrosine,x8-1,Fezf2,,4.043,,7.03,6.94
+Tyrosine,x8-2,Fezf2,,0.8739,,6.951,6.94
+Tyrosine,x9-2,Fezf2,,0.7485,,7.42,6.94
+Tyrosine,x9-4,Fezf2,,6.118,,7.081,6.94
+Pantothenate,x6-3,EGFP,,1.704,,,
+Pantothenate,x8-1,EGFP,,0.7695,,,
+Pantothenate,x8-2,EGFP,,0.9134,,,
+Pantothenate,x9-2,EGFP,,1.773,,,
+Pantothenate,x9-4,EGFP,,7.103,,,
+Pantothenate,x6-3,Rorb,,2.544,,,
+Pantothenate,x8-1,Rorb,,1.266,,,
+Pantothenate,x8-2,Rorb,,0.8964,,,
+Pantothenate,x9-2,Rorb,,1.985,,,
+Pantothenate,x9-4,Rorb,,5.368,,,
+Pantothenate,x6-3,Fezf2,,2.463,,,
+Pantothenate,x8-1,Fezf2,,0.9683,,,
+Pantothenate,x8-2,Fezf2,,1.199,,,
+Pantothenate,x9-2,Fezf2,,0.8555,,,
+Pantothenate,x9-4,Fezf2,,3.702,,,
+Ribulose 5-phosphate,x6-3,EGFP,19.44,0.08107,,,
+Ribulose 5-phosphate,x8-1,EGFP,30.5,0.0558,,,
+Ribulose 5-phosphate,x8-2,EGFP,24.9,0.04573,,,
+Ribulose 5-phosphate,x9-2,EGFP,29.26,0.09772,,,
+Ribulose 5-phosphate,x9-4,EGFP,30.54,0.2134,,,
+Ribulose 5-phosphate,x6-3,Rorb,19.65,0.09086,,,
+Ribulose 5-phosphate,x8-1,Rorb,22.49,0.0713,,,
+Ribulose 5-phosphate,x8-2,Rorb,19.34,0.05188,,,
+Ribulose 5-phosphate,x9-2,Rorb,17.13,0.09535,,,
+Ribulose 5-phosphate,x9-4,Rorb,20.3,0.1589,,,
+Ribulose 5-phosphate,x6-3,Fezf2,27.47,0.07305,,,
+Ribulose 5-phosphate,x8-1,Fezf2,21.69,0.1233,,,
+Ribulose 5-phosphate,x8-2,Fezf2,17.9,0.3523,,,
+Ribulose 5-phosphate,x9-2,Fezf2,29.26,0.06309,,,
+Ribulose 5-phosphate,x9-4,Fezf2,28.04,0.1767,,,
+Ribose 5-phosphate,x6-3,EGFP,32,3.131,,,
+Ribose 5-phosphate,x8-1,EGFP,43.27,2.009,,,
+Ribose 5-phosphate,x8-2,EGFP,37.24,2.095,,,
+Ribose 5-phosphate,x9-2,EGFP,37.57,3.535,,,
+Ribose 5-phosphate,x9-4,EGFP,38.14,7.431,,,
+Ribose 5-phosphate,x6-3,Rorb,24.99,3.804,,,
+Ribose 5-phosphate,x8-1,Rorb,30.08,2.593,,,
+Ribose 5-phosphate,x8-2,Rorb,23.86,2.192,,,
+Ribose 5-phosphate,x9-2,Rorb,27.66,4.002,,,
+Ribose 5-phosphate,x9-4,Rorb,29.65,6.41,,,
+Ribose 5-phosphate,x6-3,Fezf2,35.24,2.883,,,
+Ribose 5-phosphate,x8-1,Fezf2,23.17,4.968,,,
+Ribose 5-phosphate,x8-2,Fezf2,19.77,14.78,,,
+Ribose 5-phosphate,x9-2,Fezf2,41.58,2.569,,,
+Ribose 5-phosphate,x9-4,Fezf2,39.37,6.503,,,
+Tryptophan,x6-3,EGFP,,2.446,,1.61,
+Tryptophan,x8-1,EGFP,,3.529,,1.73,
+Tryptophan,x8-2,EGFP,,1.724,,2.143,
+Tryptophan,x9-2,EGFP,,4.008,,2.08,
+Tryptophan,x9-4,EGFP,,10.81,,1.971,
+Tryptophan,x6-3,Rorb,,0.5941,,1.702,
+Tryptophan,x8-1,Rorb,,2.881,,2.071,
+Tryptophan,x8-2,Rorb,,1.397,,1.591,
+Tryptophan,x9-2,Rorb,,2.135,,1.619,
+Tryptophan,x9-4,Rorb,,4.704,,1.974,
+Tryptophan,x6-3,Fezf2,,1.699,,1.77,
+Tryptophan,x8-1,Fezf2,,0.7188,,1.824,
+Tryptophan,x8-2,Fezf2,,0.3194,,1.731,
+Tryptophan,x9-2,Fezf2,,1.722,,2.119,
+Tryptophan,x9-4,Fezf2,,5.623,,1.945,
+Fructose 6-phosphate,x6-3,EGFP,77,0.0253,,,
+Fructose 6-phosphate,x8-1,EGFP,87.72,0.03886,,,
+Fructose 6-phosphate,x8-2,EGFP,86.81,0.01701,,,
+Fructose 6-phosphate,x9-2,EGFP,81.33,0.02966,,,
+Fructose 6-phosphate,x9-4,EGFP,92.13,0.1466,,,
+Fructose 6-phosphate,x6-3,Rorb,79.83,0.03733,,,
+Fructose 6-phosphate,x8-1,Rorb,73.26,0.02166,,,
+Fructose 6-phosphate,x8-2,Rorb,92.44,0.02942,,,
+Fructose 6-phosphate,x9-2,Rorb,71.8,0.01546,,,
+Fructose 6-phosphate,x9-4,Rorb,82.04,0.05352,,,
+Fructose 6-phosphate,x6-3,Fezf2,68.47,0.02163,,,
+Fructose 6-phosphate,x8-1,Fezf2,81.45,0.09794,,,
+Fructose 6-phosphate,x8-2,Fezf2,81.51,0.04718,,,
+Fructose 6-phosphate,x9-2,Fezf2,57.26,0.01343,,,
+Fructose 6-phosphate,x9-4,Fezf2,75.9,0.0703,,,
+Glucose 6-phosphate,x6-3,EGFP,29.83,0.1003,,,
+Glucose 6-phosphate,x8-1,EGFP,40.79,0.1322,,,
+Glucose 6-phosphate,x8-2,EGFP,37.85,0.08262,,,
+Glucose 6-phosphate,x9-2,EGFP,23.52,0.1409,,,
+Glucose 6-phosphate,x9-4,EGFP,59.12,0.3896,,,
+Glucose 6-phosphate,x6-3,Rorb,58.54,0.04747,,,
+Glucose 6-phosphate,x8-1,Rorb,31.99,0.07068,,,
+Glucose 6-phosphate,x8-2,Rorb,77.19,0.05697,,,
+Glucose 6-phosphate,x9-2,Rorb,25.56,0.0495,,,
+Glucose 6-phosphate,x9-4,Rorb,40.91,0.1107,,,
+Glucose 6-phosphate,x6-3,Fezf2,32.17,0.05508,,,
+Glucose 6-phosphate,x8-1,Fezf2,55.88,0.2515,,,
+Glucose 6-phosphate,x8-2,Fezf2,76.78,0.1194,,,
+Glucose 6-phosphate,x9-2,Fezf2,21.19,0.04738,,,
+Glucose 6-phosphate,x9-4,Fezf2,31.22,0.2208,,,
+myo-Inositol 3-phosphate,x6-3,EGFP,,0.342,,,
+myo-Inositol 3-phosphate,x8-1,EGFP,,0.4151,,,
+myo-Inositol 3-phosphate,x8-2,EGFP,,0.311,,,
+myo-Inositol 3-phosphate,x9-2,EGFP,,0.6211,,,
+myo-Inositol 3-phosphate,x9-4,EGFP,,1.55,,,
+myo-Inositol 3-phosphate,x6-3,Rorb,,0.3325,,,
+myo-Inositol 3-phosphate,x8-1,Rorb,,0.3077,,,
+myo-Inositol 3-phosphate,x8-2,Rorb,,0.1325,,,
+myo-Inositol 3-phosphate,x9-2,Rorb,,0.2388,,,
+myo-Inositol 3-phosphate,x9-4,Rorb,,0.6248,,,
+myo-Inositol 3-phosphate,x6-3,Fezf2,,0.7677,,,
+myo-Inositol 3-phosphate,x8-1,Fezf2,,0.8538,,,
+myo-Inositol 3-phosphate,x8-2,Fezf2,,1.103,,,
+myo-Inositol 3-phosphate,x9-2,Fezf2,,0.8823,,,
+myo-Inositol 3-phosphate,x9-4,Fezf2,,2.131,,,
+Serotonin,x6-3,EGFP,,0.162,,,
+Serotonin,x8-1,EGFP,,0.03143,,,
+Serotonin,x8-2,EGFP,,0.05122,,,
+Serotonin,x9-2,EGFP,,0.0733,,,
+Serotonin,x9-4,EGFP,,0.1541,,,
+Serotonin,x6-3,Rorb,,0.1502,,,
+Serotonin,x8-1,Rorb,,0.06848,,,
+Serotonin,x8-2,Rorb,,0.09663,,,
+Serotonin,x9-2,Rorb,,0.1157,,,
+Serotonin,x9-4,Rorb,,0.2326,,,
+Serotonin,x6-3,Fezf2,,0.1099,,,
+Serotonin,x8-1,Fezf2,,0.1297,,,
+Serotonin,x8-2,Fezf2,,0.5399,,,
+Serotonin,x9-2,Fezf2,,0.1257,,,
+Serotonin,x9-4,Fezf2,,0.3716,,,
+Sialic acid,x6-3,EGFP,27.28,0.03964,,,
+Sialic acid,x8-1,EGFP,35.74,0.03433,,,
+Sialic acid,x8-2,EGFP,33.65,0.02296,,,
+Sialic acid,x9-2,EGFP,31.46,0.05181,,,
+Sialic acid,x9-4,EGFP,31.81,0.1571,,,
+Sialic acid,x6-3,Rorb,21.49,0.04018,,,
+Sialic acid,x8-1,Rorb,17.47,0.01705,,,
+Sialic acid,x8-2,Rorb,17.8,0.0183,,,
+Sialic acid,x9-2,Rorb,5.1,0.006374,,,
+Sialic acid,x9-4,Rorb,12.37,0.05476,,,
+Sialic acid,x6-3,Fezf2,13.13,0.03693,,,
+Sialic acid,x8-1,Fezf2,9.57,0.3461,,,
+Sialic acid,x8-2,Fezf2,6.3,0.5746,,,
+Sialic acid,x9-2,Fezf2,20.97,0.03176,,,
+Sialic acid,x9-4,Fezf2,16.41,0.1234,,,
+Urea,x6-3,EGFP,,,,0.08015,0.08088
+Urea,x8-1,EGFP,,,,0.07937,0.08088
+Urea,x8-2,EGFP,,,,0.09971,0.08088
+Urea,x9-2,EGFP,,,,0.1029,0.08088
+Urea,x9-4,EGFP,,,,0.1255,0.08088
+Urea,x6-3,Rorb,,,,0.09038,0.08088
+Urea,x8-1,Rorb,,,,0.103,0.08088
+Urea,x8-2,Rorb,,,,0.1035,0.08088
+Urea,x9-2,Rorb,,,,0.08241,0.08088
+Urea,x9-4,Rorb,,,,0.1075,0.08088
+Urea,x6-3,Fezf2,,,,0.09059,0.08088
+Urea,x8-1,Fezf2,,,,0.09776,0.08088
+Urea,x8-2,Fezf2,,,,0.08462,0.08088
+Urea,x9-2,Fezf2,,,,0.08388,0.08088
+Urea,x9-4,Fezf2,,,,0.0591,0.08088
+Thymine,x6-3,EGFP,,,,0.01136,0.01193
+Thymine,x8-1,EGFP,,,,0.01244,0.01193
+Thymine,x8-2,EGFP,,,,0.01247,0.01193
+Thymine,x9-2,EGFP,,,,0.01189,0.01193
+Thymine,x9-4,EGFP,,,,0.01199,0.01193
+Thymine,x6-3,Rorb,,,,0.009998,0.01193
+Thymine,x8-1,Rorb,,,,0.01051,0.01193
+Thymine,x8-2,Rorb,,,,0.01171,0.01193
+Thymine,x9-2,Rorb,,,,0.01232,0.01193
+Thymine,x9-4,Rorb,,,,0.01098,0.01193
+Thymine,x6-3,Fezf2,,,,0.009909,0.01193
+Thymine,x8-1,Fezf2,,,,0.01212,0.01193
+Thymine,x8-2,Fezf2,,,,0.01274,0.01193
+Thymine,x9-2,Fezf2,,,,0.01288,0.01193
+Thymine,x9-4,Fezf2,,,,0.012,0.01193
+Glutamine,x6-3,EGFP,,,4.03,0.5492,0
+Glutamine,x8-1,EGFP,,,3.62,0.623,0
+Glutamine,x8-2,EGFP,,,9.15,0.4824,0
+Glutamine,x9-2,EGFP,,,1.31,0.5485,0
+Glutamine,x9-4,EGFP,,,0,0.6314,0
+Glutamine,x6-3,Rorb,,,5.19,1.165,0
+Glutamine,x8-1,Rorb,,,3.47,1.362,0
+Glutamine,x8-2,Rorb,,,1.56,0.8237,0
+Glutamine,x9-2,Rorb,,,0,0.9634,0
+Glutamine,x9-4,Rorb,,,0.26,1.211,0
+Glutamine,x6-3,Fezf2,,,8.11,0.8263,0
+Glutamine,x8-1,Fezf2,,,9.87,0.9972,0
+Glutamine,x8-2,Fezf2,,,3.5,0.847,0
+Glutamine,x9-2,Fezf2,,,4,0.8908,0
+Glutamine,x9-4,Fezf2,,,5.26,0.828,0
+myo-inositol,x6-3,EGFP,,,,0.7998,0.7997
+myo-inositol,x8-1,EGFP,,,,0.9226,0.7997
+myo-inositol,x8-2,EGFP,,,,0.8771,0.7997
+myo-inositol,x9-2,EGFP,,,,0.9592,0.7997
+myo-inositol,x9-4,EGFP,,,,0.8583,0.7997
+myo-inositol,x6-3,Rorb,,,,0.7775,0.7997
+myo-inositol,x8-1,Rorb,,,,0.8354,0.7997
+myo-inositol,x8-2,Rorb,,,,0.8726,0.7997
+myo-inositol,x9-2,Rorb,,,,0.7859,0.7997
+myo-inositol,x9-4,Rorb,,,,0.8452,0.7997
+myo-inositol,x6-3,Fezf2,,,,0.856,0.7997
+myo-inositol,x8-1,Fezf2,,,,0.9085,0.7997
+myo-inositol,x8-2,Fezf2,,,,0.9187,0.7997
+myo-inositol,x9-2,Fezf2,,,,0.9777,0.7997
+myo-inositol,x9-4,Fezf2,,,,0.929,0.7997
