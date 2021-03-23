@@ -1,8 +1,8 @@
 # Lattke_et_al_Astrocyte_Maturation
 
-This repository contains the code used for the analyses in “Extensive transcriptional and chromatin changes underlie astrocyte maturation in vivo and in culture” by Lattke et al. [[insert doi]]
+### This repository contains the code used for the analyses in “Extensive transcriptional and chromatin changes underlie astrocyte maturation in vivo and in culture” by Lattke et al. [[insert doi]]
 
--- "Code_and_usage_overview.pdf" contains a detailed description of the following folders with analysis scripts and related files in this repository:
+**Code_and_usage_overview.pdf** *contains a detailed description of the following folders with analysis scripts and related files in this repository:*
 
 -	Figure1_scRNA-Seq_striatum: This pipeline was used for the scRNA-Seq analysis of striatal astrocyte maturation (related to Figure 1).
 -	Figure2_RNA-Seq_cortex: This pipeline was used for the bulk-RNA-Seq analysis of cortical astrocyte maturation (related to Figure 2).
